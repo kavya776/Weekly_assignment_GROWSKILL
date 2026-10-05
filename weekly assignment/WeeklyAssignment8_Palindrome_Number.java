@@ -13,6 +13,7 @@ public class WeeklyAssignment8_Palindrome_Number {
 			num=num/10;
 			
 		}
+		System.out.println("Reverse number:"+rev);
 		if(rev==num1) {
 			System.out.println(rev +" is a palindrome number");
 			

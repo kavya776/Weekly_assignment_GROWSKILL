@@ -11,7 +11,7 @@ public class WeeklyAssignment3_Reverse_Number {
 			rev=((rev*10)+rem);
 			num=num/10;
 		}
-		System.out.print(rev);
+		System.out.println(rev);
 
 	}
 
